@@ -6,15 +6,15 @@
 <h6>Guoqing Xu and Yiheng Li contribute equally, while Yang Yang is the corresponding author.<h5>
 </div>
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2511.12590)
 
 ## Introduction
 
 This repository is an official implementation of TopoFG.
 
 ## News
-- [2025/xx/xx] Camera Ready version is released.
 - [2025/xx/xx] Codes and weights are released.
+- [2025/11/18] Camera Ready version is released.
 - [2025/11/08] TopoFG is accepted by AAAI 2026 🎉🎉.
 
 ## Environment Setting
