@@ -13,9 +13,9 @@
 This repository is an official implementation of TopoFG.
 
 ## News
-- [2024/11/23] Codes and weights are released.
-- [2024/11/18] Camera Ready version is released.
-- [2024/11/8] TopoFG is accepted by AAAI 2026 🎉🎉.
+- [2025/11/23] Codes and weights are released.
+- [2025/11/18] Camera Ready version is released.
+- [2025/11/8] TopoFG is accepted by AAAI 2026 🎉🎉.
 
 ## Environment Setting
 ```
