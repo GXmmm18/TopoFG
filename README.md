@@ -7,12 +7,7 @@
 </div>
 
 <div align="center">
-
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2511.12590)
-
-![method](/figs/framework.png "Framework Overview")
-
-
 </div>
 
 ## Introduction
@@ -86,8 +81,8 @@ We provide results on **[Openlane-V2](https://github.com/OpenDriveLab/OpenLane-V
 | STSU | 24 | 29.3 | 12.7 | 43.0 | 2.9 | 19.8 |
 | VectorMapNet | 24 | 24.9 | 11.1 | 41.7 | 2.7 | 9.2 |
 | MapTR | 24 | 31.0 | 17.7 | 43.5 | 5.9 | 15.1 |
-| TopoNet | 24 | 39.8 | 28.6 | **48.6** | 10.9 | 23.8 |
-| TopoMLP | 24 | 44.1 | **28.5** | **49.5** | 21.7 | 26.9 |
+| TopoNet | 24 | 39.8 | 28.6 | 48.6 | 10.9 | 23.8 |
+| TopoMLP | 24 | 44.1 | 28.5 | **49.5** | 21.7 | 26.9 |
 | TopoLogic | 24 | 44.1 | 29.9 | 47.2 | 23.9 | 25.4 |
 | **TopoFG (Ours)** | 24 | **48.0** | **33.8** | 47.2 | **30.8** | **30.9** |
 
@@ -98,7 +93,7 @@ We provide results on **[Openlane-V2](https://github.com/OpenDriveLab/OpenLane-V
 | **TopoLogic**  | ResNet-50 |  24   |   subset-A | 48.0 | OpenLane-V2-v2.1.0 | [config](/projects/configs/topofg_r50_8x1_24e_olv2_subset_A.py) | [ckpt](https://drive.google.com/file/d/12lkFKd_sJ5kFQjfgXzdeLidWjPHK8fQ6/view?usp=drive_link) / [log](https://drive.google.com/file/d/1oCj2PlHsLjihcID7d-KCEmAj_ArNQqDi/view?usp=drive_link) |
 ## Acknowledgements
 We thank these great works and open-source codebases:
-- [TopoLogicl](https://github.com/Franpin/TopoLogic)
+- [TopoLogic](https://github.com/Franpin/TopoLogic)
 - [TopoNet](https://github.com/OpenDriveLab/TopoNet)
 - [Openlane-V2](https://github.com/OpenDriveLab/OpenLane-V2)
 - [MapTR, MapTRv2](https://github.com/hustvl/MapTR)
